@@ -1,5 +1,5 @@
-# Hi there 👋, my name Lahcen Zkiti
-#### I am  Full Stack Developer
+# Hi there 👋, I'm Lahcen Zkiti
+#### Full Stack Developer
 
 
 
